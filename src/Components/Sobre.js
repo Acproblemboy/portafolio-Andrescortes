@@ -6,7 +6,7 @@ const Sobre = () => {
      
      <div class="div-4">
             <h1 class="title-1">sobre mí</h1>
-            <p> Soy Andres Cortes Ponce, licenciado en sistemas, y docente de informática con más de 10 años de experiencia 
+            <p> Soy Andres Stivens Cortes Ponce, licenciado en sistemas, y docente de informática con más de 10 años de experiencia 
                 en la enseñanza de tecnologías digitales en el ámbito educativo. Mi pasión por la tecnología y la 
                 educación me impulsa a crear un entorno de aprendizaje dinámico y accesible, donde los estudiantes 
                 puedan explorar y desarrollar habilidades que los preparen para el futuro digital.
